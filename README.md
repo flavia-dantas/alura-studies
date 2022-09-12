@@ -1,6 +1,5 @@
 ## Alura Studies 📚
 
-#
 ## Sobre o Projeto
 O Alura Studies tem o objetivo de listar e cronometrar tarefas de estudo.
 Projeto desenvolvido durante o curso React: escrevendo com Typescript da Alura.
